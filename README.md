@@ -27,7 +27,7 @@ Deliverable
 
 The completed security advisory is included in this repository:
 
-**`log4j-security-advisory.pdf`**
+log4j security advisory.pdf
 
 ---
 
